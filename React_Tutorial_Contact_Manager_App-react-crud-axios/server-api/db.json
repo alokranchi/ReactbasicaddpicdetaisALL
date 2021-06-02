@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "121",
+      "name": "alok mukherjee",
+      "email": "alok101@gmail.com"
+    },
+    {
+      "id": "2abad32c-5070-4234-aef9-6c90abe52c53",
+      "name": "Alok Mukherjee",
+      "email": "alokranchi2014@gmail.com"
+    },
+    {
+      "id": "a594e9a3-dca0-43eb-8a41-a626571a4f8f",
+      "name": "alok singh",
+      "email": "alokbit_08@yahoo.co.in"
+    },
+    {
+      "id": "a7cf0cab-9579-44d4-ba8e-13b6be9d262a",
+      "name": "Alok Mukherjee",
+      "email": "alokbit_08@yahoo.co.in"
+    },
+    {
+      "id": "d4329fa3-96de-4ddc-ae06-2d34216f2671",
+      "name": "Alok Mukherjee11",
+      "email": "alokranchi2014@gmail.com"
+    }
+  ]
+}
